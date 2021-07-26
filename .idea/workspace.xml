@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfb01908-75ce-4516-b038-056556d1438a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/sh/test/GitDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sh/test/GitDemo1.java" afterDir="false" />
     </list>
     <list id="ba13709f-9c13-4e1b-bb83-a689e60a5bbd" name="Revert &quot;创建分支-test&quot;" comment="Revert &quot;创建分支-test&quot;&#10;&#10;This reverts commit 8854f843" />
