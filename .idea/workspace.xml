@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c5f275d-5286-45ca-8dcf-b2b6f0e60622" name="Default Changelist" comment="" />
+    <list default="true" id="dfb01908-75ce-4516-b038-056556d1438a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sh/test/GitDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sh/test/GitDemo1.java" afterDir="false" />
+    </list>
+    <list id="ba13709f-9c13-4e1b-bb83-a689e60a5bbd" name="Revert &quot;创建分支-test&quot;" comment="Revert &quot;创建分支-test&quot;&#10;&#10;This reverts commit 8854f843" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,6 +83,21 @@
       <workItem from="1627297714067" duration="185000" />
       <workItem from="1627298162168" duration="1745000" />
     </task>
+    <task id="LOCAL-00001" summary="添加分干">
+      <created>1627305897102</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627305897102</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加主分干">
+      <created>1627305941261</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627305941261</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
