@@ -5,5 +5,6 @@ public class GitDemo1 {
         System.out.println("添加主分干");
         System.out.println("添加次分干");
         System.out.println("创建冲突");
+        System.out.println("在线更新");
     }
 }
